@@ -6,6 +6,6 @@ function soma(a,b) {
 }
 
 // Função de multiplicação - Vitor Cruz
-function soma(a,b) {
+function multiplicacao(a,b) {
     return a * b;
 }
