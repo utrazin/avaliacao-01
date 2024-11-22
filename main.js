@@ -20,7 +20,7 @@ function subtracao(a,b) {
     return a - b; 
 }
 
-// Interface do usuário - Tarik Kassem
+// Interface do usuário | Tarik Kassem
 function iniciarCalculadora() {
     const operacao = prompt(
         "Escolha a operação:\n1 - Soma\n2 - Subtração\n3 - Multiplicação\n4 - Divisão"
