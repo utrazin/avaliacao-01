@@ -9,3 +9,8 @@ function soma(a,b) {
 function multiplicacao(a,b) {
     return a * b;
 }
+
+// Função de divisão - Matheus Chiaratti
+function divisao(a,b) {
+    return a / b;
+}
